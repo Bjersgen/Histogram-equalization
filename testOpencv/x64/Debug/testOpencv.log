@@ -1,0 +1,14 @@
+﻿  1008.cpp
+E:\vs\testOpencv\testOpencv\1008.cpp(76,80): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\vs\testOpencv\testOpencv\1008.cpp(85,80): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\vs\testOpencv\testOpencv\1008.cpp(95,19): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+E:\vs\testOpencv\testOpencv\1008.cpp(15,11): warning C4101: “pixel”: 未引用的局部变量
+  testOpencv.vcxproj -> E:\vs\testOpencv\x64\Debug\testOpencv.exe
