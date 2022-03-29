@@ -1,0 +1,2 @@
+# Histogram-equalization
+Cumulative function
